@@ -46,6 +46,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="logo react" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="logo typescript" />
+    <br/>
+    <p align="left" style="margin-top: 20px;">
+      <a href="https://appmedicao.netlify.app/" target="_blank">🌐 App Medição</a> - Um aplicativo para cadastro e gestão de medições de energia e água. Possui funcionalidades como autenticação segura via Firebase, gestão de medições com validação por foto, visualização de dados e interface elegante utilizando React.js e Styled Components.
+    </p>
     <p align="left">
       <a href="https://app-chamados-23.netlify.app/" target="_blank">🌐 App Chamados</a> - Um aplicativo para cadastro e gestão de chamados de empresas. Permite login, verificação de email e senha no banco de dados Firebase, rotas privadas com login ativo, e edição de perfil com foto e nome.
     </p>
