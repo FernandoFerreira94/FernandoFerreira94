@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%7C+NestJS+%C2%B7+Next.js+%C2%B7+TypeScript;AI-Native+Developer+%7C+Entrego+o+ciclo+completo+com+IA;Founder+%40+Webcodeff+%7C+ERPs+%C2%B7+IoT+%C2%B7+SaaS+em+produ%C3%A7%C3%A3o;O+que+antes+exigia+um+time%2C+eu+entrego+sozinho.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%7C+NestJS+%C2%B7+Next.js+%C2%B7+TypeScript;AI-Native+Developer+%7C+Entrego+o+ciclo+completo+com+IA;Founder+%40+Webcodeff+%7C+ERPs+%C2%B7+IoT+%C2%B7+SaaS+em+produ%C3%A7%C3%A3o;O+que+antes+exigia+um+time%2C+eu+entrego+sozinho.)](https://git.io/typing-svg)
 
 </div>
 
