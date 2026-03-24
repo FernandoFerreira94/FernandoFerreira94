@@ -1,55 +1,164 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=140&section=header&text=Fernando%20Ferreira&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=Full-Stack%20Developer%20%26%20AI-Native%20Developer&descAlignY=78&descSize=18&descColor=888888"/>
 
-<div> 
-  <h2>📞 Contato</h2> 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%7C+NestJS+%C2%B7+Next.js+%C2%B7+TypeScript;AI-Native+Developer+%7C+Entrego+o+ciclo+completo+com+IA+como+alavanca;Founder+@+Webcodeff+%7C+ERPs+%C2%B7+IoT+%C2%B7+SaaS+em+produ%C3%A7%C3%A3o;%22O+que+antes+exigia+um+time%2C+eu+entrego+sozinho.%22)](https://git.io/typing-svg)
 
-  <div style="display: flex; align-items: center; gap: 8px;"> 
-    <a href="https://w.app/7fL0wP" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="logo do whatsapp" /> 
-    </a>
-    <p style="margin: 0; font-weight: 600;">(12) 99704-1551</p> 
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px;"> 
-    <a href="https://www.instagram.com/fernando.ferreira./" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="logo do instagram" /> 
-    </a>
-    <p style="margin: 0; font-weight: 600;">
-      <a style="text-decoration: none; color: black;" href="https://www.instagram.com/fernando.ferreira./">Instagram: fernando.ferreira._</a>
-    </p>
-  </div> 
-
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="logo do gmail" /> 
-    <p style="margin: 0; color: black; font-weight: 600;">fernandoeqp59@gmail.com</p>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px;"> 
-    <a href="https://www.linkedin.com/in/fernando-ferreira-78927b203" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="logo do linkedin" /> 
-    </a>
-    <p style="margin: 0; font-weight: 600;"> 
-      <a style="text-decoration: none; color: black;" href="https://www.linkedin.com/in/fernando-ferreira-78927b203">Fernando-Ferreira</a> 
-    </p> 
-  </div> 
-
-
-<!-- Portfólio separado embaixo -->
-<div align="start" style="margin-top: 20px;">
-  <a href="https://fernandodev.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" height="40" alt="ícone portfólio" />
-  </a>
-  <p style="margin: 5px 0; font-weight: 600;">
-    <a href="https://fernandodev.vercel.app/" target="_blank" style="text-decoration: none; color: black;">Portfólio</a>
-  </p>
 </div>
 
+-----
 
-  
-  
-  <hr> 
-  <p align="left"><b>📅 Idade:</b> 31 anos</p> <p align="left"><b>🏠 Residência:</b> São José dos Campos, SP</p> <p align="left"><b>🎓 Educação:</b> Atualmente no último semestre do Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP. Estudo inglês há 2 anos (nível intermediário) e também me aprofundando em <b>n8n</b> para automações.</p> <p align="left"><b>📚 Formação:</b> Desenvolvedor <span style="color:#4CAF50; font-weight:700;">Full Stack</span> com especialização em React.js, Next.js, TypeScript e Node.js. Também formado em <span style="color:#ff4081; font-weight:700;">Web Design</span> com foco em prototipação no <b>Figma</b>.</p> <p align="left"><b>💻 Profissão:</b> Atualmente atuando como Desenvolvedor Full Stack, lidando com aplicações web em React.js, Next.js e Node.js.</p> <p align="left"><b>🛠️ Habilidades:</b> HTML, CSS, JavaScript, React.js, TypeScript, Next.js, Tailwind CSS, SASS, Bootstrap, Git, GitHub, JQuery, Node.js, Firebase, Prisma, Express, PostgreSQL e Figma.</p>
-  <div align="left" style="margin-bottom: 20px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="logo html5" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="logo css3" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="logo javascript" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="logo react" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="logo typescript" /> <img width="15" /> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="35" alt="logo nextjs" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="logo nodejs" /> <img width="15" /> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="35" alt="logo tailwindcss" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="logo bootstrap" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="logo sass" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="logo figma" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="logo firebase" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" alt="logo prisma" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="logo express" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="logo postgresql" /> </div> <hr> <h3>🚀 Projetos</h3> <p align="left"> <a href="https://finanflow.vercel.app/" target="_blank"><b>🌐 FinanFlow</b></a> Finan Flow é uma solução fullstack sofisticada para controle financeiro pessoal, que permite gerenciar despesas fixas, parceladas e à vista. Possui notificações inteligentes, filtros avançados, rotas privadas, login social (Google OAuth) e design responsivo com Tailwind CSS. <i>Stack: React.js, TypeScript, Node.js, Express, Prisma, PostgreSQL</i>. </p> <p align="left"> <a href="https://dev-pizza-front-end.vercel.app/" target="_blank"><b>🍕 DevPizza</b></a> Sistema interno completo de gerenciamento de pedidos para pizzarias, com foco em agilidade no atendimento, organização da cozinha e controle gerencial. <i>Stack: React.js, Node.js, Express, PostgreSQL</i>. </p> <p align="left"> <a href="https://primeflix-delta-one.vercel.app/" target="_blank"><b>🎬 PrimeFlix</b></a> Aplicativo web Full Stack que consome a API do TMDb para exibir filmes e lançamentos, com backend próprio em Node.js/Express/Prisma e autenticação JWT. Usuários podem salvar filmes em sua lista pessoal. <i>Stack: Next.js, TypeScript, Node.js, Prisma, PostgreSQL</i>. </p> <hr> <h5 align="left" style="margin-bottom: 10px;">🎯 Profissão:</h5> <p><b>Desenvolvedor Full Stack | React.js, Next.js & Node.js | UI/UX & SaaS Solutions | Criando aplicações escaláveis e centradas no usuário </b></p> <hr> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoFerreira94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="gráfico de linguagens" /> </div> <hr> </div>
+## 👤 Sobre
+
+```typescript
+const fernando = {
+  role:       "Full-Stack Developer & AI-Native Developer",
+  company:    "Webcodeff — software house fundada em 2023",
+  location:   "São José dos Campos, SP — Brasil",
+  education:  "Tecnólogo em ADS — UNIP (2024–2026)",
+  english:    "Intermediário (em evolução contínua)",
+
+  stack: {
+    frontend:  ["Next.js", "React", "TypeScript", "TailwindCSS", "shadcn/ui"],
+    backend:   ["NestJS", "Node.js", "REST API", "JWT", "OAuth 2.0"],
+    database:  ["PostgreSQL", "Prisma ORM"],
+    infra:     ["AWS Amplify", "App Runner", "RDS", "S3", "Docker"],
+    iot:       ["ESP32", "SCT-013", "MQTT"],
+    tools:     ["n8n", "Figma", "GitHub Actions"],
+  },
+
+  currentFocus: [
+    "Sistemas críticos em produção",
+    "Automação com IA (AI-Native Development)",
+    "IoT industrial e dashboards em tempo real",
+  ],
+
+  openTo: ["CLT", "PJ remoto", "Freelance", "Parcerias técnicas"],
+};
+```
+
+-----
+
+## 🚀 Projetos em Produção
+
+### 🏬 ERP Colinas — Gestão de Ativos
+
+> Sistema ERP customizado para o **Shopping Colinas** — em operação real, ambiente corporativo de grande porte.
+
+- 24 usuários ativos distribuídos em turnos de 4–10 pessoas por plantão
+- Gestão completa de Ordens de Serviço: abertura, execução, encerramento e histórico por ativo
+- Controle de estoque com rastreabilidade por centro de custo
+- Dashboard de produtividade em tempo real por turno e funcionário
+- Controle de permissões: técnico, supervisor e administrador
+- Infraestrutura em produção na AWS: Amplify, App Runner, RDS e S3
+
+`Next.js` `NestJS` `TypeScript` `PostgreSQL` `Prisma` `TailwindCSS` `shadcn/ui` `AWS`
+
+-----
+
+### ⚡ IoT Industrial — Monitoramento de Ativos
+
+> Sistema de monitoramento em tempo real de falhas em motores e equipamentos industriais — **129 ativos monitorados**.
+
+|Tipo             |Quantidade|
+|-----------------|----------|
+|Quadros elétricos|32        |
+|Exaustores       |16        |
+|Ventiladores     |15        |
+|Bombas           |16        |
+|Ar-condicionados |24        |
+|Geradores        |6         |
+|Chillers         |4         |
+
+- Leitura contínua de corrente elétrica via sensores SCT-013
+- Alertas automáticos para desvios fora do padrão operacional
+- Dashboard web com histórico por ativo e período
+- Identificação precoce de falhas, reduzindo risco de parada não planejada
+
+`ESP32` `SCT-013` `MQTT` `NestJS` `PostgreSQL` `Next.js` `TypeScript`
+
+-----
+
+### 🌿 GFC Grama Futebol Clube — Plataforma Comercial
+
+> Plataforma comercial com catálogo de produtos e calculadoras interativas de área — entregue e publicada.
+
+`Next.js` `TailwindCSS` `TypeScript`
+
+-----
+
+### 🌐 FinanFlow — Controle Financeiro Pessoal
+
+> Solução full-stack para gestão de despesas fixas, parceladas e à vista. Login social com Google OAuth.
+
+[🔗 Ver projeto](https://finanflow.vercel.app/) · `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL`
+
+-----
+
+### 🍕 DevPizza — Sistema de Pedidos para Pizzaria
+
+> Sistema interno de gerenciamento de pedidos com controle de cozinha e painel gerencial.
+
+[🔗 Ver projeto](https://dev-pizza-front-end.vercel.app/) · `React` `Node.js` `Express` `PostgreSQL`
+
+-----
+
+## 🛠️ Stack Técnica
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**IoT & Automação**
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+-----
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoFerreira94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="linguagens" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FernandoFerreira94&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="streak" />
+</div>
+
+-----
+
+## 📞 Contato
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ferreira-78927b203)
+[![Instagram](https://img.shields.io/badge/Webcodeff-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/webcodeff/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fernandodev.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/7fL0wP)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webcodeff@outlook.com)
+
+</div>
+
+-----
+
+<div align="center">
+  <sub>
+    💡 <strong>"O que antes exigia um time inteiro, eu entrego com código limpo, arquitetura sólida e IA como alavanca."</strong>
+  </sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer"/>
