@@ -41,9 +41,9 @@ const fernando = {
 
 ## 🚀 Projetos em Produção
 
-### 🏬 ERP Colinas — Gestão de Ativos
+### 🏬 ERP  — Gestão de Ativos
 
-> ERP customizado para o **Shopping Colinas** — ambiente corporativo de grande porte, em operação real.
+> ERP customizado — ambiente corporativo de grande porte, em operação real.
 
 - ✅ 24 usuários ativos | turnos de 4–10 pessoas por plantão
 - ✅ Gestão completa de Ordens de Serviço: abertura, execução e histórico por ativo
